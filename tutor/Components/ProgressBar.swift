@@ -27,5 +27,5 @@ struct ProgressBar: View {
 }
 
 #Preview {
-    ProgressBar(progress: 50)
+    ProgressBar(progress: 10)
 }
